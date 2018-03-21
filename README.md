@@ -4,6 +4,7 @@
 # ST_pitch_estimation
   
 Professor: José Adrián Rodríguez Fonollosa
+
 Student: Paolo Cancello
 
 The objective of this assignment is the analysis of the basic properties of the speech signal: voicing and pitch, and to develop accurate estimation algorithms of these parameters.
